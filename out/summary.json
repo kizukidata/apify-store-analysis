@@ -1,0 +1,36 @@
+{
+  "fetched_at_utc": "2026-11-13T02:08:14Z",
+  "endpoint": "https://api.apify.com/v2/store",
+  "include_unrunnable": true,
+  "requests_made": 15,
+  "catalog_total_reported": 119113,
+  "items_fetched": 13990,
+  "backend_detected": "old",
+  "unique_authors": 2082,
+  "users_30d_present_count": 13990,
+  "users_30d_present_pct": 100.0,
+  "total_users_sum": 10713587,
+  "top_1pct_authors_count": 21,
+  "top_1pct_author_user_share_pct": 67.48,
+  "top_10pct_authors_count": 208,
+  "top_10pct_author_user_share_pct": 94.66,
+  "user_buckets": {
+    "0": 0,
+    "1": 1859,
+    "2-9": 3981,
+    "10-99": 4167,
+    "100-999": 3151,
+    "1000+": 832
+  },
+  "pricing_model_counts": {
+    "PAY_PER_EVENT": 13345,
+    "FREE": 645
+  },
+  "no_category_pct": 8.73,
+  "agentic_present_count": 13990,
+  "agentic_pct": 82.12,
+  "users_30d_sum_present": 1178279,
+  "users_30d_zero_pct_present": 14.37,
+  "users_30d_one_pct_present": 26.0,
+  "users_30d_10plus_pct_present": 32.69
+}
